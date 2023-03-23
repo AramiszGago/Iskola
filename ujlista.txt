@@ -1,0 +1,3 @@
+Rendezett lista:-10-1014568911132023284042586979100
+Legkisebb szám:-10
+Legnagyobb szám:100
