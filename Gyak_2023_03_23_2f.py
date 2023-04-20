@@ -48,4 +48,7 @@ print("B betűvel kezdődő országok:", dbb)
 print("6-nál hosszabb nevű országok:", db6)
 print("Legrövidebb ország nevének betűszáma:", legrövh)
 print("Legrövidebb nevű ország:", legrövn)
+
+rendez(EU)
+print(EU)
 print(EU2)

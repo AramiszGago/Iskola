@@ -23,5 +23,5 @@ def kodolas(mondat,betu,darab):
             cserel = cserel+i
     return cserel
 
-szoveg = kodolas("Valami szöveget kell megadni","a",2)
+szoveg = kodolas("Az almás pite nagyon finom!", "a", 5)
 print(szoveg)
